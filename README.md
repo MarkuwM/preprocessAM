@@ -2,7 +2,7 @@
 
 ## Passo a passo da análise
 
-## Base credit-data.csv
+### Base credit-data.csv
 
 **Verificação de inconsistências**
 
@@ -25,7 +25,7 @@ A base agora possui apenas valores válidos, numéricos e sem lacunas.
 Foi salva como credit-data-tratado.csv.
 
 
-## Base census.csv
+### Base census.csv
 
 **Identificação de valores inválidos**
 
