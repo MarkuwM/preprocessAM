@@ -1,8 +1,8 @@
 # preprocessAM
 
-##Passo a passo da análise
+## Passo a passo da análise
 
-##Base credit-data.csv
+## Base credit-data.csv##
 
 **Verificação de inconsistências**
 Observou-se que as colunas income, age e loan estavam em formato de texto (string), contendo pontos adicionais que impediam a conversão direta para números.
@@ -19,7 +19,7 @@ A base agora possui apenas valores válidos, numéricos e sem lacunas.
 Foi salva como credit-data-tratado.csv.
 
 
-##Base census.csv
+## Base census.csv##
 
 **Identificação de valores inválidos**
 Constatou-se que os valores ausentes eram representados pelo texto " ?", em vez de NA.
